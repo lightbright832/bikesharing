@@ -43,3 +43,6 @@ Throughout this analysis we can see the Citi Bike ridesharing model is producing
 Lastly, we see that this area of Manhattan is a hot spot for Citi Bike ridesharing. The same model can be revealed once Des Moines takes hold of the idea and begins offering bike ridesharing to its citizens.
 
 ![](https://github.com/lightbright832/bikesharing/blob/main/starting%20locations.png)
+
+### Link to Tableau Workbook
+https://public.tableau.com/app/profile/rachel.craig/viz/Citi_bikeChallenge_16440260383870/Story12
